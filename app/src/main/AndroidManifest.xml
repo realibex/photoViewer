@@ -10,6 +10,12 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.PhotoViewer">
         <activity android:name=".Img1Activity"></activity>
+        <activity android:name=".Img2Activity"></activity>
+        <activity android:name=".Img3Activity"></activity>
+        <activity android:name=".Img4Activity"></activity>
+        <activity android:name=".Img5Activity"></activity>
+        <activity android:name=".Img6Activity"></activity>
+        <activity android:name=".Img7Activity"></activity>
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
